@@ -8,8 +8,10 @@
 <p align="center">
   <a href="https://sites.google.com/view/aimhi-lab"><img src="https://img.shields.io/badge/AIMHI_Lab-0A4D68?style=for-the-badge&logo=googlechrome&logoColor=white" alt="AIMHI Lab" /></a>
   <a href="https://jhch1113.github.io/"><img src="https://img.shields.io/badge/Homepage-114B5F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Homepage" /></a>
+  <!--
   <a href="https://www.acmicpc.net/user/mtn2072"><img src="https://img.shields.io/badge/BOJ-1F6FEB?style=for-the-badge&logo=codeforces&logoColor=white" alt="BOJ" /></a>
   <a href="https://solved.ac/mtn2072"><img src="https://img.shields.io/badge/Solved.ac-0E7490?style=for-the-badge&logo=bookstack&logoColor=white" alt="Solved.ac" /></a>
+  -->
 </p>
 
 ---
